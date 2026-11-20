@@ -220,8 +220,7 @@ Make sure the following are installed on your system:
 ### 1. Clone the Repository
 
 ```bash
-git clone <your-github-repository-url>
-cd Event-management-system-main
+Download the project zip file
 ```
 
 ### 2. Backend Setup
