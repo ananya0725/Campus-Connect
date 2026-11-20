@@ -217,7 +217,7 @@ Make sure the following are installed on your system:
 - MongoDB
 - Git
 
-### 1. Clone the Repository
+### 1. Download the project 
 
 ```bash
 Download the project zip file
